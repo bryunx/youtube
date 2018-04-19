@@ -1,0 +1,37 @@
+body {
+	background: #f4f4f4;
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+	color: #666;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+#youtube {
+	width: 980px;
+	margin: auto;
+	overflow: auto;
+	background: #fff;
+}
+
+ul {
+	list-style-type: none;
+	columns: 2;
+	  -webkit-columns: 2;
+	  -moz-columns: 2;
+
+}
+
+li {
+	margin-bottom: 20px;
+}
+
+iframe {
+	margin-left: 15px;
+}
+
+form {
+	text-align: center;
+}
